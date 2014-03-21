@@ -1,0 +1,82 @@
+.topmenu { 
+  border: 1px solid green;
+}
+
+.block1 a:link{
+  text-decoration: none;
+  /* remove underline */
+  color: red;
+}
+.block1 a:visited{
+  color: blue;
+}
+.block1 a:hover{
+  text-decoration: underline;
+  color: yellow;
+}
+.block1 a:active{
+  color: yellow;
+}
+.leftpa a:link{
+  text-decoration: none;
+  /* remove underline */
+  color: red;
+}
+.leftpa a:visited{
+  color: blue;
+}
+.leftpa a:hover{
+  text-decoration: underline;
+  color: yellow;
+}
+.leftpa a:active{
+  color: yellow;
+}
+header {
+	width: 75%;
+	margin: 0 auto;
+}
+nav{
+	width: 60%;
+	margin: 0 auto;
+}
+article {
+	width: 68%;
+	margin: 0 auto;
+}
+.picture1 figure {
+  float: left;
+
+  /* Other styles */
+  border: 1px solid #999;
+  background: url("http://www.taipeitravel.net/d_upload_ttn/sceneadmin/pic/11000848%5F180%23180.jpg");
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  margin: 1em;
+}
+.picture2 figure {
+  float: left;
+
+  /* Other styles */
+  border: 1px solid #999;
+  background: url("http://www.taipeitravel.net/d_upload_ttn/sceneadmin/pic/11000340%5F180%23180.jpg");
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  margin: 1em;
+}
+.picture3 figure {
+  float: left;
+
+  /* Other styles */
+  border: 1px solid #999;
+  background: url("http://www.taipeitravel.net/d_upload_ttn/sceneadmin/pic/11000721%5F180%23180.jpg");
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  margin: 1em;
+}
+.word1 {
+	font-size: 2em;
+}
